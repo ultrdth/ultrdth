@@ -4,9 +4,8 @@
 
 ---
 
-i do weird stuff :3
-
-feel free to use it however you like and support is highly appreciated
+I do weird stuff :3
+Feel free to use my stuff however you like and support is highly appreciated
 
 ---
 
@@ -18,5 +17,5 @@ feel free to use it however you like and support is highly appreciated
 ---
 
 <p align="center">
-  have a nice day y'all :3
+  Have a nice day y'all :3
 </p>
