@@ -39,8 +39,8 @@ feel free to use it however you like and support is highly appreciated
 
 ## socials
 
-discord: [your-discord-username](#)
-email: your-email@example.com
+discord: [ekitten_hunter](#)
+email: prardoesstuff@gmail.com
 
 ---
 
