@@ -6,7 +6,7 @@
 
 I do weird stuff :3
 
-Feel free to use my stuff however you like and support is highly appreciated
+Feel free to use my stuff however you like and im too lazy to fix something if its broken tho :p
 
 ---
 
