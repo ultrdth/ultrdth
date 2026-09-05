@@ -4,9 +4,10 @@
 
 ---
 
-I do weird stuff :3
+I do weird stuff in C,C++,C#,java,python, and rust:3
+(and sometimes html, css, js)
 
-Feel free to use my stuff however you like and im too lazy to fix something if its broken tho :p
+Feel free to use my stuff however you like :D
 
 ---
 
